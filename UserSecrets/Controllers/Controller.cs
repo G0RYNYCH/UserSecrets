@@ -1,6 +1,5 @@
-using Microsoft.AspNetCore.Mvc;
-
 namespace UserSecrets.Controllers;
+
 [ApiController]
 [Route("[controller]")]
 public class Controller : ControllerBase
